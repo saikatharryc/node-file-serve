@@ -1,0 +1,17 @@
+{
+  "name": "serve_init",
+  "version": "1.0.0",
+  "description": "serves local file index",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saikatharryc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "finalhandler": "^1.0.0",
+    "serve-index": "^1.8.0",
+    "serve-static": "^1.12.1"
+  }
+}
